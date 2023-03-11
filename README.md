@@ -1,2 +1,3 @@
 # lab-3
-description
+Narzędzia używane w parcy IT 
+Semestr 2
